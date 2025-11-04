@@ -1,7 +1,7 @@
 # E-commerce Sales Performance (Power BI)
 
 
-**KPIs:** Total CA, Total Qty, **AOV**, **YoY / MoM**, performance by **channel** (Instagram, Site Web, WhatsApp).
+**KPIs:** Total CA, Total Qty, **AOV**, **YoY / MoM**, performance by **channel** (Instagram, Site Web, WhatsApp)..
 
 ## Method
 - **Power Query:** types, trim/clean, remove duplicates, standardized column names.  
